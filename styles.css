@@ -1,0 +1,30 @@
+p{background-color: red;
+  color: blue;
+  border: 2px solid #959;
+}
+
+.rawstyle{ color: red;
+         background-color: lightblue;
+    border: 2px solid #999;
+
+}
+
+.button {
+    width: 40px;
+    height: 20px;
+}
+
+body { background-color: lightgrey;}
+
+
+.button:active{
+
+    height: 120%;
+    background-color: lightgreen;
+    
+}
+
+legend{
+    color: blue ;
+    background-color: lighgreen;
+}
